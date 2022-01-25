@@ -19,7 +19,7 @@
 }
 
 .column-mid {
-    width: 50%;
+    width: 55%;
     text-align: left;
     margin-left: 18%;
     background-color: #fefefe;
@@ -27,7 +27,7 @@
 }
 
 .column-right {
-    width: 32%;
+    width: 27%;
     text-align: left;
     background-color: bisque;
 }
